@@ -1,0 +1,25 @@
+body
+{
+ background-color: aqua;
+ display: inline;
+}
+#bio
+{
+    background-color: cadetblue !important;
+}
+#Refrences
+{
+     background-color: coral !important;
+}
+#My-Inspiration
+{
+    background-color: rgb(72, 255, 0) !important;
+}
+#My-Singing-Related-Apps
+{
+    background-color: rgb(253, 11, 104) !important;
+}
+img:hover
+{
+    transform: scale(0.9)
+}
